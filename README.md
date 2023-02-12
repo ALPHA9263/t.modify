@@ -56,7 +56,7 @@ k-Alpha is a bash based script which modifies and changes your terminal from bor
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/Alpha-hackers/T-LOAD`
+* ` git clone https://github.com/Alpha-hackers/t.modify`
 * `cd $HOME`
 * `ls`
 * `cd k-Alpha`
